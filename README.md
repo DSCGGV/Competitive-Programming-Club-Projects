@@ -21,17 +21,20 @@ We will be using standard resources for doing CP problems and making regular con
 * [URI Online Judge](https://www.urionlinejudge.com.br/)
 * [ICPC Archive](https://icpc.global/compete/problems)
 
+## Our Organizer
+<img src="https://media-exp1.licdn.com/dms/image/C4D1BAQFHuo-adR1tcQ/company-background_10000/0?e=1601262000&v=beta&t=Qu_uA7sFdqmnhZpcpIXkIiWMMWWbsEorFarRcQ3uqF8" height="250">
+
 ## Our Learning Partners
 <table>
 <tr>
 <td>
-<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFFmtfFop9WTw/company-logo_200_200/0?e=1609372800&v=beta&t=cdpEj0WmHulOnAfb01I4ZB17hGQdbiVN__U3eNfGnjc" height="150">
+<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFFmtfFop9WTw/company-logo_200_200/0?e=1609372800&v=beta&t=cdpEj0WmHulOnAfb01I4ZB17hGQdbiVN__U3eNfGnjc" height="200">
 </td>
 <td>
-<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQG_6AAWfonRSg/company-logo_200_200/0?e=1609372800&v=beta&t=_R0yS98v4bXvcO-o8rgqy0YFK5YGVI3tQem9LMaWn9k" height="150">
+<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQG_6AAWfonRSg/company-logo_200_200/0?e=1609372800&v=beta&t=_R0yS98v4bXvcO-o8rgqy0YFK5YGVI3tQem9LMaWn9k" height="200">
 </td>
 <td>
-<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEqb_FhnYHCfw/company-logo_200_200/0?e=1609372800&v=beta&t=BVgBlHmN5X5tNJkYM5DVUbxPbGJL336M4FYFHMidIBk" height="150">
+<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEqb_FhnYHCfw/company-logo_200_200/0?e=1609372800&v=beta&t=BVgBlHmN5X5tNJkYM5DVUbxPbGJL336M4FYFHMidIBk" height="200">
 </td>
 </tr>
 </table>
