@@ -1,6 +1,6 @@
 # Hacktober Fest 2020
 
-Hey Guys ❤, we are going to conduct the [Hacktober Fest-2020](https://hacktoberfest.digitalocean.com/). The entire contribution guidelines can be found here - [Hacktober fest contributions](https://github.com/Developer-Student-Clubs-GGV/Competitive-Programming-Club-Projects/blob/master/Hacktober%20Fest%202020/CONTRIBUTIONS.md)
+Hey Guys ❤, we are going to conduct the [Hacktober Fest-2020](https://hacktoberfest.digitalocean.com/). 
 
 <img src="https://github.com/Developer-Student-Clubs-GGV/Competitive-Programming-Club-Projects/blob/master/Assets/hacktober%20Dockship%20%F0%9F%92%AF.png" height="500">
 
