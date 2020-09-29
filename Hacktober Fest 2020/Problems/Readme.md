@@ -8,7 +8,7 @@ Any problem from the below archieves can be chosen in order to contribute,before
 
 #### Basic
 
-* [Sphere Online Judge Basic](https://www.spoj.com/problems/basics/)
+* [Sphere Online Judge Basic problems](https://www.spoj.com/problems/basics/)
 * [Codechef Basic Problems](https://www.codechef.com/problems/school/)
 
 #### Easy/Medium/Classical
@@ -19,7 +19,7 @@ Any problem from the below archieves can be chosen in order to contribute,before
 
 #### Challenge/Hard
 
-* [Sphere Online Judge Challenge](https://www.spoj.com/problems/challenge/)
+* [Sphere Online Judge Challenge Problems](https://www.spoj.com/problems/challenge/)
 * [Codechef Hard Problems](https://www.codechef.com/problems/hard/)
 * [Codechef Challenge Problems](https://www.codechef.com/problems/challenge/)
 
