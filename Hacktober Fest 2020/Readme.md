@@ -14,7 +14,7 @@ The entire details can be viewed here - [Hacktober Fest - 2020](https://hacktobe
 
 Please follow the below steps in order to contribute to the repository.
 
-* Go through the list of CP problems here - [Problem List](https://github.com/Developer-Student-Clubs-GGV/Competitive-Programming-Club-Projects/tree/master/Hacktober%20Fest%202020/Problems)
+* Go through the list of CP problems here - [Problems List](https://github.com/Developer-Student-Clubs-GGV/Competitive-Programming-Club-Projects/tree/master/Hacktober%20Fest%202020/Problems)
 * Make an issue of the same in the repository.
 * Wait for the repo admin to assign you the issue.
 * Fork the repository to your official Github account.
