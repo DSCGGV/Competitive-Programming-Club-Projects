@@ -27,7 +27,7 @@ Hey Guys ❤, we are going to conduct the [Hacktober Fest-2020](https://hacktobe
 <img src="https://github.com/Developer-Student-Clubs-GGV/Competitive-Programming-Club-Projects/blob/master/Assets/hacktober%20Dockship%20%F0%9F%92%AF.png" height="500">
 
 ## Our Organizer
-<img src="https://media-exp1.licdn.com/dms/image/C4D1BAQFHuo-adR1tcQ/company-background_10000/0?e=1601262000&v=beta&t=Qu_uA7sFdqmnhZpcpIXkIiWMMWWbsEorFarRcQ3uqF8" height="250">
+<img src="https://github.com/Developer-Student-Clubs-GGV/Android-Web-Club/blob/master/Assets/DSC_GGV_logo.jpeg" height="250">
 
 ## Our Learning Partners
 <table>
